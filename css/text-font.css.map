@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAA;EACR,WAAW,EAAC,QAAQ;CACvB;;AACD,AAAA,YAAY,CAAA;EACR,WAAW,EAAC,QAAQ;CACvB;;AACD,AAAA,WAAW,CAAA;EACP,WAAW,EAAC,OAAO;CACtB;;AAED,AAAA,aAAa,CAAA;EACT,SAAS,EAAE,IAAI;CAClB;;AACD,AAAA,aAAa,CAAA;EACT,SAAS,EAAE,IAAI;CAClB;;AACD,AAAA,aAAa,CAAA;EACT,SAAS,EAAE,IAAI;CAClB;;AACD,AAAA,aAAa,CAAA;EACT,SAAS,EAAE,IAAI;CAClB;;AACD,AAAA,aAAa,CAAA;EACT,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "../application/views/scss/include/text-font.scss"
+    ],
+    "names": [],
+    "file": "text-font.css"
+}

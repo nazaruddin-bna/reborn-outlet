@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,SADK,CACL,EAAE,CAAA;EACE,WAAW,EAAE,IAAI;CACpB",
+    "sources": [
+        "../application/views/scss/include/top-sale.scss"
+    ],
+    "names": [],
+    "file": "top-sale.css"
+}
